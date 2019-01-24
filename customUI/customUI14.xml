@@ -1,0 +1,21 @@
+<!--RibbonX Visual Designer 2.31 for Microsoft Excel CustomUI14 . XML Code produced on 2016/02/22-->
+<customUI  xmlns="http://schemas.microsoft.com/office/2009/07/customui" >
+	<ribbon >
+		<tabs >
+			<tab
+				id="Domisoft"
+				label="Domisoft">
+				<group
+					id="domisoft_gp_other"
+					label="Other Tool">
+					<button
+						id="domisoft_utc_proxy"
+						imageMso="HelpGettingStarted"
+						label="Proxy Switcher"
+						size="large"
+						onAction="other_action"/>
+				</group >
+			</tab >
+		</tabs >
+	</ribbon >
+</customUI >
